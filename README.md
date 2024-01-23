@@ -1,4 +1,5 @@
 # Hello-Everyone
-Hello! Guys. I am Designer 
+Hello! Guys. <br>
+I am
 <br>
-Developer
+Designer & Developer
